@@ -16,20 +16,20 @@ cd to directory
 cd system-Info-Dashboard
 To get a copy up and running follow these simple steps.
 clone project
-Clone this repository using your terminal or command line with. "https://github.com/obenyolande/Survey-form.git"
+Clone this repository using your terminal or command line with. "git@github.com:obenyolande/White-space-doc.git"
 Change to the project directory by entering: cd Survey form in the terminal.
 ```
 - Command-line steps
- git clone  "https://github.com/obenyolande/Survey-form.git"
+ git clone  "https://github.com/obenyolande/White-space-doc/pull/1"
  "cd Survey-form"
-"git switch feature/game(to switch to the feature branch)"
+"git switch feature/White-space-doc(to switch to the feature branch)"
 -Test
 click the link style.css found in the index.html file,it will redirect you into the the style.css file
-click "go live" found below the tool bar in your survey form
-it will carry you into the HTML form  displaye on the web browser.
+click "go live" found below the tool bar in your White-space-doc
+it will carry you into the HTML form  displayed on the web browser.
 
 -Deployment link
-you can also have acess to the [Deployment page] "https://obenyolande.github.io/Survey-form/"
+you can also have access to the [Deployment page] "https://obenyolande.github.io/White-space-doc/"
 
 ## Project Technical
 Built with;
