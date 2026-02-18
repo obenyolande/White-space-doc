@@ -3,7 +3,7 @@ A simple HTML script prints a system information and that uses HTML to style and
 ## Description
 This project shows how HTML script that prints a system information and that uses HTML style to write HTML codes.
 ### Preview
-[White-space-doc]()
+[White-space-doc](assets/Whitespace.png)
 ### Installation Requirements
 -download the file
 -cd to the directory where the program is found
